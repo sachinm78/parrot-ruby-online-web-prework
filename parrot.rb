@@ -1,9 +1,7 @@
 def parrot(sound = "Squawk!")
-  puts  
+  puts "#{parrot}" 
   return  
 end 
-
-parrot_ruby("relax")
 
 
 # Create method `parrot` that outputs a given phrase and
